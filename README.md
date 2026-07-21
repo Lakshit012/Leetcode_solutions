@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
