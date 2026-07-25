@@ -1,20 +1,22 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        vector<int>diff(2051,0);
+        vector<vector<int>>lineSweep;
         for(int i=0;i<logs.size();i++){
             int start=logs[i][0];
             int end=logs[i][1];
-            diff[start]=diff[start]+1;
-            diff[end]=diff[end]-1;
+            lineSweep.push_back({start,+1});
+            lineSweep.push_back({end,-1});
         }
-        int ans=1950;
-        int maxi=diff[1950];
-        for(int i=1951;i<=2050;i++){
-            diff[i]=diff[i]+diff[i-1];
-            if(diff[i]>maxi){
-                maxi=diff[i];
-                ans=i;
+        sort(lineSweep.begin(),lineSweep.end());
+        int maxi=lineSweep[0][1];
+        int ans=lineSweep[0][0];
+         int currpop=lineSweep[0][1];
+        for(int i=1;i<lineSweep.size();i++){
+            currpop=currpop+lineSweep[i][1];
+            if(currpop>maxi){
+                ans=lineSweep[i][0];
+                maxi=currpop;
             }
         }
         return ans;
