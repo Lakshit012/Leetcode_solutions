@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 ## Divide and Conquer
 |  |
