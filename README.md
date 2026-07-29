@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [0228-summary-ranges](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [2381-shifting-letters-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -137,8 +139,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
