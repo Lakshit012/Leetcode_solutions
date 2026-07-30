@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
