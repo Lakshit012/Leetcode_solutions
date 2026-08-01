@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
