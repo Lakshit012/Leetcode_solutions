@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1854-maximum-population-year](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1854-maximum-population-year) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
