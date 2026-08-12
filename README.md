@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3355-zero-array-transformation-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
 |  |
 | ------- |
