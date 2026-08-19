@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
+| [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
