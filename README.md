@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
+| [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [2381-shifting-letters-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
