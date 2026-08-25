@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -186,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
