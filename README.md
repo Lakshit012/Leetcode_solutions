@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
+| [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
+| [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
 ## Sliding Window
