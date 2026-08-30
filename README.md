@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
