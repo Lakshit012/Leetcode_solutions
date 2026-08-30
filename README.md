@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0228-summary-ranges) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
