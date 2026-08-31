@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
