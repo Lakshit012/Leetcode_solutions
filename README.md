@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
