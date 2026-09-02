@@ -6,22 +6,23 @@ public:
             mpp[x]++;
         }
         int ans=0;
-        int i=0;
-        while(i<nums.size()){
-            int num=nums[i];
-            int sum=k-num;
-            if(mpp[num] > 0 && mpp[sum] > 0){
-                if(num == sum && mpp[num] < 2) {
-                    i++;
-                    continue;
+        for(int i=0;i<nums.size();i++){
+            int num=k-nums[i];
+            if(num==nums[i]){
+                if(mpp[num]>1){
+                    mpp[num]--;
+                    mpp[num]--;
+                    if(mpp[num]==0) mpp.erase(num);
+                    ans++;
                 }
+            }
+            else if (mpp.find(num)!=mpp.end() && mpp[nums[i]]>=1 && mpp[num]>=1){
                 mpp[num]--;
+                mpp[nums[i]]--;
                 if(mpp[num]==0) mpp.erase(num);
-                mpp[k-num]--;
-                if(mpp[k-num]==0) mpp.erase(k-num);
+                if(mpp[nums[i]]==0) mpp.erase(nums[i]);
                 ans++;
             }
-            i++;
         }
         return ans;
     }
