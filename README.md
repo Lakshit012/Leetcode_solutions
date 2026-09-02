@@ -61,6 +61,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Sliding Window
 |  |
 | ------- |
