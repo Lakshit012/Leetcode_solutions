@@ -62,6 +62,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3904-smallest-stable-index-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3355-zero-array-transformation-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
