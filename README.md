@@ -47,6 +47,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1854-maximum-population-year](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1854-maximum-population-year) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -200,6 +201,7 @@
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -237,6 +239,7 @@
 | [0875-koko-eating-bananas](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
@@ -268,6 +271,7 @@
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2381-shifting-letters-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
