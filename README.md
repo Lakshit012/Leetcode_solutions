@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -259,6 +260,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
@@ -365,6 +367,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
