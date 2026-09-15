@@ -35,6 +35,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1052-grumpy-bookstore-owner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -261,6 +262,7 @@
 | [0904-fruit-into-baskets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1052-grumpy-bookstore-owner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
