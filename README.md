@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
@@ -78,6 +79,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -210,6 +212,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0392-is-subsequence) |
