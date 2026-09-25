@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
