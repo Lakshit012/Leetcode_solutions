@@ -316,6 +316,7 @@
 | [0443-string-compression](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0767-reorganize-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1768-merge-strings-alternately) |
@@ -420,6 +421,7 @@
 | [0735-asteroid-collision](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -430,4 +432,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
