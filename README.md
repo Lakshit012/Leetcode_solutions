@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
@@ -109,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0414-third-maximum-number](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -439,4 +441,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
