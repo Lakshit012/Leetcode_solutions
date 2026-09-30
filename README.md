@@ -307,6 +307,7 @@
 | [0735-asteroid-collision](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
@@ -332,6 +333,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -428,6 +430,7 @@
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
