@@ -444,6 +444,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
