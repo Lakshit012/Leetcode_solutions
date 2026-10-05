@@ -320,6 +320,7 @@
 | [0443-string-compression](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -428,6 +429,7 @@
 | [0735-asteroid-collision](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
