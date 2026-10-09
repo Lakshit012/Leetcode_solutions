@@ -96,6 +96,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -327,6 +328,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -437,6 +439,7 @@
 | [0856-score-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -456,6 +459,7 @@
 | [0856-score-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
