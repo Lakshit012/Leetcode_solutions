@@ -65,6 +65,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2381-shifting-letters-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -103,6 +104,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -134,6 +136,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -254,6 +257,7 @@
 | [0767-reorganize-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
@@ -285,6 +289,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Sliding Window
