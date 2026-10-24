@@ -215,6 +215,7 @@
 | [0836-rectangle-overlap](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [2409-count-days-spent-together](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -352,6 +353,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2381-shifting-letters-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
+| [2409-count-days-spent-together](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
