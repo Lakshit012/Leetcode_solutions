@@ -16,8 +16,7 @@ public:
             }
             else{
                 prevEnd=min(prevEnd,points[i][1]);
-            }
-            
+            }   
             }
             return ans;
     }
