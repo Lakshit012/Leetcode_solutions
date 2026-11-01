@@ -392,6 +392,7 @@
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -434,11 +435,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -449,6 +452,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Linked List
 |  |
 | ------- |
