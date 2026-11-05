@@ -47,6 +47,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -133,6 +134,7 @@
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -249,6 +251,7 @@
 | [0658-find-k-closest-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1768-merge-strings-alternately) |
@@ -296,6 +299,7 @@
 | [0875-koko-eating-bananas](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
