@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -202,6 +203,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -342,6 +344,7 @@
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0443-string-compression) |
