@@ -81,6 +81,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -170,6 +171,7 @@
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
