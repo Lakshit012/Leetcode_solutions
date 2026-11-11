@@ -117,6 +117,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
