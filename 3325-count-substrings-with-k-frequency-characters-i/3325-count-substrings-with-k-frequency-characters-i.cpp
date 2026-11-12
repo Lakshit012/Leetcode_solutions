@@ -1,23 +1,17 @@
 class Solution {
 public:
-    int freq(string &s,int k,int j){
-         vector<int>ch(27,0);
+    int numberOfSubstrings(string s, int k) {
+        int i=0,j=0,ans=0;
+        unordered_map<char,int>mpp;
         while(j<s.length()){
-            ch[s[j]-'a']++;
-            if(ch[s[j]-'a']>=k){
-                break;
+            mpp[s[j]]++;
+            while(mpp[s[j]]>=k){
+                mpp[s[i]]--;
+                i++;
             }
+            ans+=i;
             j++;
         }
-        return s.size()-j;
-    }
-    int numberOfSubstrings(string s, int k) {
-        int Ans=0;
-       for(int i=0;i<s.length();i++){
-       int ans=freq(s,k,i);
-        if(ans==0) break;
-        else Ans+=ans;
-       }
-       return Ans;
+        return ans;
     }
 };
