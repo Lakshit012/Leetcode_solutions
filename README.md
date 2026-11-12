@@ -199,6 +199,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -331,6 +332,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
