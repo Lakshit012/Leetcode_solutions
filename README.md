@@ -442,6 +442,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Design
 |  |
 | ------- |
