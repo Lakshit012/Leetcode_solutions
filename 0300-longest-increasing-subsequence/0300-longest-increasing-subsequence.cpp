@@ -1,24 +1,19 @@
 class Solution {
 public:
-    int n;
-    int solve(vector<int>&nums,int prev,int idx,vector<vector<int>>&dp){
-        if(idx>=n) return 0;
-        //take
-        if(dp[idx][prev+1]!=-1)  return dp[idx][prev+1];
-        int take=-1;
-        int skip=-1;
-        if(prev==-1 || nums[prev]<nums[idx]){
-            take= 1+solve(nums,idx,idx+1,dp);
-        }
-        //skip
-         skip=solve(nums,prev,idx+1,dp);
-       return dp[idx][prev+1]=max(skip, take);
+    int solve(int i,int p,vector<int>&nums,vector<vector<int>>& t){
+        if(i>=nums.size()) return 0;
+        // take
+        if(t[i][p+1]!=-1) return t[i][p+1];
+        int take=0;
+        if(p==-1 || nums[i]>nums[p])
+         take=1+solve(i+1,i,nums,t);
+        // exclude
+        int skip=solve(i+1,p,nums,t);
+        return t[i][p+1]=max(skip,take);
     }
     int lengthOfLIS(vector<int>& nums) {
-        n=nums.size();
-        int ans=0;
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-       ans= solve(nums,-1,0,dp);
-       return ans;
+            int n = nums.size();
+        vector<vector<int>> t(n, vector<int>(n+1, -1));
+         return solve(0,-1,nums,t);
     }
 };
