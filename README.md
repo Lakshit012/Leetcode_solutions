@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
