@@ -178,6 +178,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1143-longest-common-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -371,6 +372,7 @@
 | [0767-reorganize-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -542,4 +544,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
