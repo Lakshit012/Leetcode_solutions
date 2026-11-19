@@ -169,6 +169,7 @@
 | [0055-jump-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0213-house-robber-ii) |
@@ -364,6 +365,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
