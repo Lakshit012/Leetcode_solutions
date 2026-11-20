@@ -20,6 +20,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -177,6 +178,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -555,4 +557,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
