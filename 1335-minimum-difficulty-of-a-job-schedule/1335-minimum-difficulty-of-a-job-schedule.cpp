@@ -1,13 +1,14 @@
 class Solution {
-public: 
+public:
     int t[301][11];
     int solve(vector<int>&nums,int idx,int d){
+        // base case when d==1 we have to complete all jobs in one day
         if(d==1){
             int maxD=nums[idx];
             for(int i=idx;i<nums.size();i++){
                 maxD=max(maxD,nums[i]);
             }
-            return maxD;
+              return maxD;
         }
         if(t[idx][d]!=-1) return t[idx][d];
         int maxD=nums[idx];
