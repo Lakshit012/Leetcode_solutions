@@ -84,6 +84,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3355-zero-array-transformation-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -220,6 +221,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -402,6 +404,7 @@
 | [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -437,6 +440,7 @@
 | [0547-number-of-provinces](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Matrix
 |  |
 | ------- |
@@ -542,6 +546,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0437-path-sum-iii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
