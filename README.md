@@ -48,6 +48,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
+| [1187-make-array-strictly-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1207-unique-number-of-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -148,6 +149,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1094-car-pooling) |
+| [1187-make-array-strictly-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1288-remove-covered-intervals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -190,6 +192,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1143-longest-common-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+| [1187-make-array-strictly-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -332,6 +335,7 @@
 | [0875-koko-eating-bananas](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1187-make-array-strictly-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -466,6 +470,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1187-make-array-strictly-increasing](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 ## Design
 |  |
 | ------- |
