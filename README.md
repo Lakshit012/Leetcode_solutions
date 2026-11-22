@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0213-house-robber-ii) |
@@ -177,6 +178,7 @@
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0213-house-robber-ii) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -381,6 +384,7 @@
 | [0072-edit-distance](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0383-ransom-note) |
@@ -459,6 +463,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 ## Game Theory
 |  |
 | ------- |
@@ -580,4 +585,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
