@@ -91,6 +91,7 @@
 | [3355-zero-array-transformation-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
@@ -257,6 +258,7 @@
 | [2409-count-days-spent-together](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -367,6 +369,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -508,6 +511,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Union-Find
 |  |
 | ------- |
@@ -593,4 +597,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
