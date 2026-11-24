@@ -178,6 +178,7 @@
 | [0064-minimum-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -386,6 +387,7 @@
 | [0022-generate-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
