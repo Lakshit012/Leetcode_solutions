@@ -260,6 +260,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -279,6 +280,7 @@
 | [0050-powx-n](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -450,6 +452,7 @@
 | [0078-subsets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0980-unique-paths-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
