@@ -199,6 +199,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0983-minimum-cost-for-tickets) |
