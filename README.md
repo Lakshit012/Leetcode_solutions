@@ -269,6 +269,7 @@
 | [2409-count-days-spent-together](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -393,6 +394,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
