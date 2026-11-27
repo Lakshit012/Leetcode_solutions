@@ -268,6 +268,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/Lakshit012/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
@@ -422,6 +423,7 @@
 | [0767-reorganize-string](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -635,4 +637,12 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
