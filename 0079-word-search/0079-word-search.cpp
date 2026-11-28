@@ -1,29 +1,26 @@
 class Solution {
 public:
-    bool dfs(int row,int col,vector<vector<char>>& board,string word,int idx){
-        int n=board.size();
-        int m=board[0].size();
+    bool solve(vector<vector<char>>&board,string &word,int i,int j,int idx){
          if(idx==word.size()) return true;
-        if(row<0 || col<0 || row>=n || col>=m || board[row][col]=='#') return false;
-        if(board[row][col]!=word[idx]) return false;
-        char temp=board[row][col];
-        board[row][col]='#';
-        bool right=dfs(row,col+1,board,word,idx+1);
-        bool left=dfs(row,col-1,board,word,idx+1);
-        bool down=dfs(row+1,col,board,word,idx+1);
-        bool up=dfs(row-1,col,board,word,idx+1);
-        board[row][col]=temp;
-        return up|| down|| right||left;
+        if(i<0 || i>=board.size() || j<0 || j>=board[0].size()) return false;
+        if(board[i][j]=='&') return false;
+        if(board[i][j] != word[idx]) return false;
+        char ch=board[i][j];
+        board[i][j]='&';
+        bool up=solve(board,word,i-1,j,idx+1);
+        bool left=solve(board,word,i,j+1,idx+1);
+        bool right=solve(board,word,i,j-1,idx+1);
+        bool down=solve(board,word,i+1,j,idx+1);
+        board[i][j]=ch;
+        return up || down || left || right;
     }
     bool exist(vector<vector<char>>& board, string word) {
-        int n=board.size();
-        int m=board[0].size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        for(int i=0;i<board.size();i++){
+            for(int j=0;j<board[0].size();j++){
                 if(board[i][j]==word[0]){
-                   if(dfs(i,j,board,word,0)){
-                    return true;
-                   }
+                    if(solve(board,word,i,j,0)){
+                        return true;
+                    }
                 }
             }
         }
