@@ -481,6 +481,7 @@
 | [0437-path-sum-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -594,6 +595,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Lakshit012/Leetcode_solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
@@ -601,6 +603,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/Lakshit012/Leetcode_solutions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Lakshit012/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Lifting
 |  |
